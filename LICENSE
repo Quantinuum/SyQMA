@@ -1,0 +1,84 @@
+LICENSE AGREEMENT - TERMS AND CONDITIONS FOR USE
+
+By using the software included in this repository (https://github.com/Quantinuum/SyQMA) ("Software"), you hereby accept the terms and conditions of 
+this Agreement.
+
+LICENSE GRANTS. Subject to the terms of this Agreement, Quantinuum grants to users a non-exclusive, non-sublicensable, revocable, 
+royalty-free license to use the Software solely for research purposes.
+
+NO IMPLIED LICENSE. Except as otherwise expressly stated in this Agreement, nothing contained in this Agreement will be construed 
+to grant either party any license, by implication, estoppel, or otherwise, to any intellectual property rights of the other, 
+including trademarks, copyrights, patents, or trade secrets.
+
+TERM. This Agreement shall commence on March 3, 2025 ("Effective Date") and shall terminate upon the earlier of: 
+a. One (1) year from the Effective Date; or 
+b. A Party delivers written notice to the other Party of its intent to terminate this Agreement for any or no reason. 
+Upon termination or expiration of this Agreement, the License to use the Software will expire and user shall destroy/delete the
+Software provided under this Agreement and provide Quantinuum with a notice of deletion/destruction of the Software.
+
+CONFIDENTIALITY. The Software including all information related thereto that is generally not known is confidential information. 
+(“Confidential Information”). Confidential Information excludes information that: (a) is publicly available through no fault of recipient; 
+(b) is rightfully received by recipient from a third party without a duty of confidentiality; or (c) is independently developed. 
+Confidential Information shall be held in strictest confidence and shall not, without the written consent of Quantinuum, be used or 
+disclosed except to User's employees who are bound to substantially similar obligations of confidentiality and have a need to know. 
+User will be responsible for any breaches of the confidentiality obligations by its employees. User will keep all Confidential Information 
+confidential for ten (10) years from disclosure. User may disclose Confidential Information when compelled to do so by law if it provides 
+prior notice to Quantinuum and reasonable opportunity to contest or limit disclosure unless a court orders that the other Party not be 
+given notice. This Agreement and the internal operation, workings and processes and performance of this Agreement is our Confidential 
+Information. 
+
+COMPLIANCE. By accessing the Software, you represent and warrant you will comply with all applicable terms of this Agreement when 
+accessing and using the Software. You shall not use the Software for purposes of, or in connection with at least the following: 
+(a) reverse engineering; (b) interfering with the Software's security or operation (including probing, scanning or testing the 
+vulnerability of any security measures or misrepresenting transmission sources); (c) creating, benchmarking or gathering intelligence 
+for a competitive offering or competitive purposes; (d) introducing, transmitting, or storing malicious code, Trojan horse, 
+self-replicating, or other computer instructions that may, without Quantinuum’s knowledge or consent: (i) alter, destroy, inhibit, or 
+discontinue the Software; (ii) erase, destroy, corrupt, hold hostage, or modify any data, programs, materials, machine protocols, or 
+information used or accessed by Quantinuum; or (iii) bypass or disable any internal security measure to obtain access to any Quantinuum 
+resource(s); (e) introducing, transmitting, or storing any code that may be used, in whole or in part, for compromising any encryption; 
+(f) infringing another’s IPR including but not limited to failing to obtain permission to upload/transfer/display works of 
+authorship; and/or (g) any use that would reasonably be expected to cause liability or harm to us or our customers or breach this 
+Agreement. Further, by accessing the Software, you represent and warrant you will comply with all applicable laws including data 
+privacy or localization, anti-bribery, and export control laws (e.g., export to embargoed, prohibited, or restricted countries or 
+access by prohibited, denied, or designated persons) and your rights to use the Software is subject to such compliance.
+
+INTELLECTUAL PROPERTY. All right, title and interest, including all intellectual property (including copyrights, trademarks, and 
+patents), proprietary rights (including trade secrets and know-how), and moral rights (including rights of authorship and 
+modification) throughout the world (collectively “IPR”) in and to the Software and all derivative works, modifications, and 
+improvements, are retained by Quantinuum or its licensors. Quantinuum shall own all IPR that is generated through support, monitoring, 
+or other observation of your and your users’ use of the Software. The operation and performance of the Software is our confidential 
+information. If user provides any suggestions, comments, or feedback regarding the Software, user hereby assigns to Quantinuum all 
+right, title and interest in and to the same without restriction. User shall not remove, modify, or obscure any IPR notices on the 
+software included in this repository or related documentation.
+
+PUBLICITY. Except for any publications and scholarly disclosures in accordance with this Agreement, no public disclosures or other 
+announcements regarding this Agreement or the Software shall be made by either Party without the prior written consent of the other 
+Party.
+
+PUBLICATIONS. User shall have the right to make or permit to be made scholarly disclosures of the results when using the Software, 
+including without limitation, publication in scholarly journals, presentations at academic and other conferences, and disclosures in 
+grant and funding applications.
+
+NO WARRANTIES. Quantinuum provides the Software on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A 
+PARTICULAR PURPOSE. User agrees to make its own independent evaluation of the Software and any information related to the Software.
+
+LIMITATION OF LIABILITY AND DAMAGES. QUANTINUUM SHALL NOT BE LIABLE FOR ANY LOSSES OR DAMAGES AS A RESULT OF USER'S USE OF SOFTWARE 
+INLCUDING, BUT NOT LIMITED TO, THE FOLLOWING LOSSES OR DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR USE OF THE SOFTWARE, 
+IRRESPECTIVE OF WHETHER THE DAMAGES WERE FORESEEABLE OR A PARTY HAD ADVANCE NOTICE OF THE POSSIBILITY OF THE DAMAGES: (A) ANY DIRECT 
+DAMAGES, (B) ANY DAMAGES FOR LOSS OF PROFITS, LOSS OF USE, INJURY TO GOODWILL, OR LOSS OF BUSINESS, OR (B) ANY INDIRECT, INCIDENTAL, 
+SPECIAL, OR CONSEQUENTIAL DAMAGES. User agrees that breach of this Agreement and its confidentiality obligations by User and its 
+employees will cause irreparable damage to Quantinuum for which money damages will not be fully adequate, and Quantinuum is entitled 
+to seek injunctive relief, in addition to any other legal remedies.
+
+RELATIONSHIP OF PARTIES; NO RIGHTS CONFERRED. Nothing in this Agreement shall be construed as giving rise to a relationship among or 
+between the Parties of prime contractor and subcontractor, employer and employee, agency or joint venturers. Neither Party shall have 
+the authority or power to bind the other or to contract in the name of, or create a liability against, the other in any way or for 
+any purpose, regardless of the legal theory or basis therefor. Nothing contained in this Agreement shall be construed as: granting or 
+conferring any right to use any Software, information or know how which a Party shall elect to furnish hereunder except as expressly 
+authorized in this Agreement; or conferring any license or right with respect to any trademark, trade or brand name, the corporate name 
+of either Party hereto or the corporate name of a subsidiary of either Party hereto or of any other name or mark or any contraction, 
+abbreviation or simulation thereof.
+
+NO RELIANCE. Each Party understands that any actions that it may take in reliance upon this Agreement are at its own risk and the other 
+Party shall not be legally responsible for such reliance.
