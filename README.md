@@ -1,6 +1,6 @@
 # SyQMA: Symbolic Quantum Memory-efficient Analyser
 
-WARNING: This repository will be updated over the next few days.
+WARNING (Work In Progress): This repository will be updated multiple times over the next week.
 
 The repository implements the strong simulation of universal quantum circuits exactly, analytically, and memory-efficiently, particularly tailored for quantum error correction.
 
@@ -34,5 +34,5 @@ import syqma
 
 To run the tests, simply use:
 ```bash
-pytest
+uv run python -m pytest
 ```
